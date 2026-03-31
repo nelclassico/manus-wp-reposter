@@ -130,10 +130,10 @@ Este plugin é licenciado sob a GPL2. Veja o arquivo LICENSE para mais detalhes.
 
 ## Autor
 
-Desenvolvido por **Manus AI** - https://manus.im
+Desenvolvido por **Neotecnow Soluções Tecnológicas** - https://neotecnow.com
 
 ---
 
-**Versão**: 1.0.0  
-**Compatibilidade**: WordPress 5.0+  
+**Versão**: 1.0.0
+**Compatibilidade**: WordPress 5.0+
 **Requisitos**: PHP 7.2+

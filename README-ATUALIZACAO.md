@@ -4,11 +4,11 @@
 
 Este é o **Manus WP Reposter v2** com **extração inteligente de conteúdo**. O plugin agora consegue:
 
-✅ **Reconhecer conteúdo automaticamente** - Não depende mais de tags específicas  
-✅ **Remover menus e sidebars** - Sem deixar rastros de navegação  
-✅ **Funcionar com qualquer estrutura HTML** - Blogs, notícias, portais, etc.  
-✅ **Evitar apagar conteúdo legítimo** - Algoritmo mais preciso  
-✅ **Processar múltiplos feeds** - Sem perder qualidade  
+✅ **Reconhecer conteúdo automaticamente** - Não depende mais de tags específicas
+✅ **Remover menus e sidebars** - Sem deixar rastros de navegação
+✅ **Funcionar com qualquer estrutura HTML** - Blogs, notícias, portais, etc.
+✅ **Evitar apagar conteúdo legítimo** - Algoritmo mais preciso
+✅ **Processar múltiplos feeds** - Sem perder qualidade
 
 ## 📋 Problemas Resolvidos
 
@@ -77,7 +77,7 @@ if ( $best_node && $best_score > 10 ) { // Aumente para 20, 30, etc.
 O plugin analisa cada elemento da página e calcula um "score" baseado em:
 
 ```
-Score = 
+Score =
   + (tamanho_texto / 100)
   + (parágrafos * 10)
   + (headings * 5)
@@ -165,10 +165,10 @@ Veja `GUIA-MIGRACAO.md` para instruções detalhadas.
 
 ## 📞 Suporte
 
-- **Documentação**: https://docs.manus.im/wp-reposter
-- **Forum**: https://forum.manus.im
-- **Email**: support@manus.im
-- **Issues**: https://github.com/manus/wp-reposter/issues
+- **Documentação**: https://github.com/nelclassico/manus-wp-reposter
+
+- **Email**: nelclassico@gmail.com
+- **Issues**: https://github.com/nelclassico/manus-wp-reposter
 
 ## 📝 Changelog
 
@@ -191,14 +191,14 @@ GPL v2 ou posterior
 
 ## 👥 Créditos
 
-Desenvolvido pela **Manus Team**  
+Desenvolvido pela **Emanoel Oliveira**
 Baseado em algoritmos de extração de conteúdo tipo Readability
 
 ---
 
-**Versão**: 2.0.0  
-**Data**: 2024  
-**Status**: Estável ✅  
+**Versão**: 2.0.0
+**Data**: 2024
+**Status**: Estável ✅
 **Compatibilidade**: WordPress 5.0+, PHP 7.4+
 
 **Aproveite a nova versão! 🎉**
